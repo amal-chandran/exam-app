@@ -12,7 +12,7 @@ export default class PricingBox extends Component {
     const { item, type } = this.props;
 
     return (
-      <div className="col-3 px-0">
+      <div className="col-12 col-lg-3 col-md-4 px-0">
         <div
           className={classnames(
             { "py-3": type == "base" },
