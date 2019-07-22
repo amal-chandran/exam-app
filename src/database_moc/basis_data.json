@@ -1,0 +1,85 @@
+{
+  "user": {
+    "heading": "USER BASIS",
+    "items": [
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      }
+    ]
+  },
+
+  "test": {
+    "heading": "TEST BASIS",
+    "items": [
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Upto 500 \n tests/month",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "Rs 4000 / Month"
+      },
+      {
+        "id": "1",
+        "name": "Upto 1000 \n tests/month",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      },
+      {
+        "id": "1",
+        "name": "Free Trial",
+        "details": "10 Tests \n Unlimited Quizzes \n Candidate Panel",
+        "rateTitle": "1 Month"
+      }
+    ]
+  }
+}
